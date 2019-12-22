@@ -1,6 +1,7 @@
 # medical_classification_TransferLearning
 
-About Data:
+About Data: 
+https://www.kaggle.com/kuru321/skindisease (Private)
 
 Total Data Size = 559
 
